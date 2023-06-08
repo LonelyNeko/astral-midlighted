@@ -1,0 +1,13 @@
+name = "Save and Load Inventories"
+filename = "saveandloadinventories-1.18.2-3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "57ba3a20652df4a7cfd88bc37c16e20bd609c662"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4314687
+project-id = 411384
