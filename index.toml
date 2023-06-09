@@ -367,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "268eee36d007dc55ff7abb4e4eff3dc2d6d8007fad18bea53330dffffeee41f5"
+hash = "90ee67aa66896fd198955f6b58f68d7a2502c872154d54d26a0605bb14c5e6e8"
 metafile = true
 
 [[files]]
@@ -426,6 +426,11 @@ hash = "10fbefa297383d7d768be6b113220b1d5f18bad29b5103641e9ffb0b3d37f3cb"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "d3caf0b1837490d2b0169fa8e0ff485158c70200c23dbdefead7912d47e5fc70"
+metafile = true
+
+[[files]]
 file = "mods/ftb-backups-2.pw.toml"
 hash = "c4097f78304946f76eb1bb8ae793d1e0f273fcda995679ad69390319b9fe9493"
 metafile = true
@@ -438,6 +443,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-quests-fabric.pw.toml"
 hash = "09b05de422ce7d92532b1bb1e72c1a054e6a476d04d671684e3adab8d69e64af"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-fabric.pw.toml"
+hash = "df222a476c046b30bc6d97327fdfcc80d1412e3fb3032a648b0709f580dce8bd"
 metafile = true
 
 [[files]]
@@ -653,6 +663,11 @@ metafile = true
 [[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
 hash = "91e6ca5321ae6fa135d921fc2c56b0e98c1fb01ec0f296906b95200222eb62d6"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "24d9155e0b2c610e9531767671c65e020e00bf94ad0698094892f794120a676c"
 metafile = true
 
 [[files]]
