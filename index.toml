@@ -1,6 +1,61 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/.index/arcanus.pw.toml"
+hash = "35438404a4495ad85275f2a86772776a577197971888826564c07d6237f80644"
+metafile = true
+
+[[files]]
+file = "mods/.index/biomesyougo.pw.toml"
+hash = "4ff3d06efd4510d60002de221c262b2a1d45109bfee8c9502a7ef0637fff828c"
+metafile = true
+
+[[files]]
+file = "mods/.index/collective.pw.toml"
+hash = "3a57864e090381aa12283377021f8b0adb28f767e9cf3ebf64ff425b7218869a"
+metafile = true
+
+[[files]]
+file = "mods/.index/fabrictailor.pw.toml"
+hash = "2902947404d89a4cbb49fc040d2cb896cf20149fbaf141fa6e6e5862ddf4b598"
+metafile = true
+
+[[files]]
+file = "mods/.index/leashable-players.pw.toml"
+hash = "ff0b294926e3b2469193ab0b8292574ffebbd08672455e45d5dec730a000c966"
+metafile = true
+
+[[files]]
+file = "mods/.index/leaves-us-in-peace.pw.toml"
+hash = "4a979dceac9fa57ad5dcd1c967bec4797984a5504454f26a7bb46700ee8c1fc2"
+metafile = true
+
+[[files]]
+file = "mods/.index/moogs-voyager-structures.pw.toml"
+hash = "fb4ce764315dc2873d42f3fbb137430c6be75fe475f84c9a0aca2a49f88ef326"
+metafile = true
+
+[[files]]
+file = "mods/.index/pettable.pw.toml"
+hash = "226b79e7e4607e639c42aab71a627016c4e683672166de2013c12714631b3c1f"
+metafile = true
+
+[[files]]
+file = "mods/.index/save-and-load-inventories.pw.toml"
+hash = "a3a27f55c1972d3586479e0a73c95fbad7fc44d02e1304b8fade0a5e14a0d091"
+metafile = true
+
+[[files]]
+file = "mods/.index/styled-nicknames.pw.toml"
+hash = "8e49727c90024bf49197a3486fda02a5eff8e9059693bf491aadde8d5ea965c5"
+metafile = true
+
+[[files]]
+file = "mods/.index/terrablender.pw.toml"
+hash = "c9d69de22885c5eca0971745e27b79b5b884c5a0dd4170e2d9846371d0575322"
+metafile = true
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "888ac53b89e1a68a99ad3ae74851023ab1668e6aa755d2b552ac1addf1844956"
 metafile = true
@@ -346,6 +401,11 @@ hash = "f5a63f7098aff652010fbf06a7cb93ff042fb59345a2b2255f03063499c5951e"
 metafile = true
 
 [[files]]
+file = "mods/farsight-fabric.pw.toml"
+hash = "41233eadb61c59cd9fb298f21709c79f45c78dc3e03b08c40d0c094c86a821d5"
+metafile = true
+
+[[files]]
 file = "mods/fast-furnace-for-fabric.pw.toml"
 hash = "cbd86b4ee72d9d3926256fbd8e271def01c41e0498fcc8bf11dde6cdf27ca03a"
 metafile = true
@@ -371,11 +431,6 @@ hash = "c4097f78304946f76eb1bb8ae793d1e0f273fcda995679ad69390319b9fe9493"
 metafile = true
 
 [[files]]
-file = "mods/ftb-chunks-fabric.pw.toml"
-hash = "a6dbf8e1339508ca3dedd5bc2a346616bbb7c17f18def665ed4d3a2fcec70b1e"
-metafile = true
-
-[[files]]
 file = "mods/ftb-library-fabric.pw.toml"
 hash = "91136fa2e69d33b38212fd767d4f60a58c018e217b2cf5b3d4f136396124b08b"
 metafile = true
@@ -383,11 +438,6 @@ metafile = true
 [[files]]
 file = "mods/ftb-quests-fabric.pw.toml"
 hash = "09b05de422ce7d92532b1bb1e72c1a054e6a476d04d671684e3adab8d69e64af"
-metafile = true
-
-[[files]]
-file = "mods/ftb-teams-fabric.pw.toml"
-hash = "df222a476c046b30bc6d97327fdfcc80d1412e3fb3032a648b0709f580dce8bd"
 metafile = true
 
 [[files]]
@@ -438,6 +488,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "be873c5a8334965478e30347937dede2bb43a6d2edd8d3c1d6cdb8d893985962"
+metafile = true
+
+[[files]]
+file = "mods/iris-flywheel-compat.pw.toml"
+hash = "80610b8db6c85da2d16b0037838401bc8f8ab2ef3e8d124735a93851d32f281c"
 metafile = true
 
 [[files]]
@@ -793,6 +848,16 @@ metafile = true
 [[files]]
 file = "mods/worldedit.pw.toml"
 hash = "9cba8becd46d571b7576be0d34fea48a7c38f5745265186c7baf1c79251ef373"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "d3e723a7008728160021ad81b676d4e6e60a17a745f4c5c401f177b24d2e7358"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "4af49cfe3cad109a8e647293b7087164536853a3d49e66cbb220bff142307339"
 metafile = true
 
 [[files]]
