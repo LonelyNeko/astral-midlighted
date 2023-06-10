@@ -261,6 +261,11 @@ hash = "84573c409fb271c793a8cd444ac8d488e59ef98c0423d1d5705a129788502146"
 metafile = true
 
 [[files]]
+file = "mods/coyote-time.pw.toml"
+hash = "8f78b048d5efc3f130f26580941a8f0df00ef47090bf59be4fcf3afbcab54ecb"
+metafile = true
+
+[[files]]
 file = "mods/create-deco-fabric.pw.toml"
 hash = "83bdbc9a86e9ff416a3d7dd1f3cb493e94fa0bc3d931bf27800ba98a845896b6"
 metafile = true
