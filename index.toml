@@ -796,6 +796,11 @@ hash = "f0f3db1d94ff771dedbd4d44fdf886dac40e66074ae562392d9f11a58beb78ec"
 metafile = true
 
 [[files]]
+file = "mods/slideshow-fabric.pw.toml"
+hash = "e29969ccbed6e737925f28cd38992af8a8c6792d51513731e8cbd1d6fef33745"
+metafile = true
+
+[[files]]
 file = "mods/smooth-boot.pw.toml"
 hash = "9a031c4018bdcf4e8d70f5009a3069914b8febf96712222fdd31f8d0ae2451b4"
 metafile = true
