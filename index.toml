@@ -101,11 +101,6 @@ hash = "e0917e3b5febe243fef9f8353440137bfa3f5bddc3f383a4538160f00b1434b4"
 metafile = true
 
 [[files]]
-file = "mods/armorhide.pw.toml"
-hash = "5250dcda3deead1e7428e9533f4075bf661f40be722bff181a15fb4958c59358"
-metafile = true
-
-[[files]]
 file = "mods/astral-additions-for-create-astral.pw.toml"
 hash = "b3e2a6fcb00291cdfdc7c1c3f3ed2988fc579ff432d6f2e320d87e50291a342f"
 metafile = true
@@ -331,11 +326,6 @@ hash = "846889a4bd16d20453cbfeffa443dffb333fa16fe3e10bd7d3c32bfaf2228366"
 metafile = true
 
 [[files]]
-file = "mods/disco.pw.toml"
-hash = "5bf885a664dcf2af78df283a8984279754916ec8513b727884233f9af449ced2"
-metafile = true
-
-[[files]]
 file = "mods/drink-beer-unofficial-clockwerk-edition.pw.toml"
 hash = "c750b596d79bfd8755b97386bee721c6f7435b3772d33f48ebc6678ce5a69e0b"
 metafile = true
@@ -382,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "268eee36d007dc55ff7abb4e4eff3dc2d6d8007fad18bea53330dffffeee41f5"
+hash = "90ee67aa66896fd198955f6b58f68d7a2502c872154d54d26a0605bb14c5e6e8"
 metafile = true
 
 [[files]]
