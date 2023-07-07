@@ -8,6 +8,7 @@ file = "index.toml"
 hash-format = "sha256"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 hash = "2dbb6baf69ff413e062f8f1b380b917334a8e146115ce129f2a38f067c7bdde6"
 =======
 hash = "606ad94a019cf9151df89a1ecf614441f21bcac953b041cc9ec7df6213932ae5"
@@ -15,6 +16,9 @@ hash = "606ad94a019cf9151df89a1ecf614441f21bcac953b041cc9ec7df6213932ae5"
 =======
 hash = "606ad94a019cf9151df89a1ecf614441f21bcac953b041cc9ec7df6213932ae5"
 >>>>>>> parent of 25c85b3 (Added Create Steam n Rails and more Client side mods)
+=======
+hash = "47e737dba30bcbdbbf18ff2bd35c8d64fd430fa859957ce4f2f8357f2a908eee"
+>>>>>>> parent of df832d1 (Revert "Add files via upload")
 
 [versions]
 fabric = "0.14.14"
