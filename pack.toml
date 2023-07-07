@@ -6,7 +6,11 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
+<<<<<<< HEAD
 hash = "2dbb6baf69ff413e062f8f1b380b917334a8e146115ce129f2a38f067c7bdde6"
+=======
+hash = "606ad94a019cf9151df89a1ecf614441f21bcac953b041cc9ec7df6213932ae5"
+>>>>>>> parent of 25c85b3 (Added Create Steam n Rails and more Client side mods)
 
 [versions]
 fabric = "0.14.14"
