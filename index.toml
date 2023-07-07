@@ -1,13 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-<<<<<<< HEAD
-<<<<<<< HEAD
-file = "index.html"
-hash = "44850cc807a71524024fbd11439b61a66ad2b34ca1792bc6b6763d45822fb043"
-=======
-=======
->>>>>>> parent of 25c85b3 (Added Create Steam n Rails and more Client side mods)
 file = "mods/.index/arcanus.pw.toml"
 hash = "35438404a4495ad85275f2a86772776a577197971888826564c07d6237f80644"
 metafile = true
@@ -61,10 +54,6 @@ metafile = true
 file = "mods/.index/terrablender.pw.toml"
 hash = "c9d69de22885c5eca0971745e27b79b5b884c5a0dd4170e2d9846371d0575322"
 metafile = true
-<<<<<<< HEAD
->>>>>>> parent of 25c85b3 (Added Create Steam n Rails and more Client side mods)
-=======
->>>>>>> parent of 25c85b3 (Added Create Steam n Rails and more Client side mods)
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
@@ -298,20 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-sifting-refabricated.pw.toml"
-<<<<<<< HEAD
-<<<<<<< HEAD
 hash = "118be8089ac72f1217e376376260ee7415e6251522f05bef05f7c82c4e6ab725"
-metafile = true
-
-[[files]]
-file = "mods/create-steam-n-rails.pw.toml"
-hash = "daf68a6c35f4638cefe216bc2e454bf98e6e14adb26cfca6334f0cadb843830d"
-=======
-hash = "19452e56d51ce17608509ba09b9dc0414c92950b59e80239a11038edbfc77b40"
->>>>>>> parent of 25c85b3 (Added Create Steam n Rails and more Client side mods)
-=======
-hash = "19452e56d51ce17608509ba09b9dc0414c92950b59e80239a11038edbfc77b40"
->>>>>>> parent of 25c85b3 (Added Create Steam n Rails and more Client side mods)
 metafile = true
 
 [[files]]
@@ -896,15 +872,7 @@ metafile = true
 
 [[files]]
 file = "mods/trinkets.pw.toml"
-<<<<<<< HEAD
-<<<<<<< HEAD
 hash = "30ab9b9b90f614905d5e19c4275a70fb0098f142e7afa9b6263de3967f6b8ea5"
-=======
-hash = "712e87884c53ad1c8891e7ea384318750051684144972ad11a15c44cf327a864"
->>>>>>> parent of 25c85b3 (Added Create Steam n Rails and more Client side mods)
-=======
-hash = "712e87884c53ad1c8891e7ea384318750051684144972ad11a15c44cf327a864"
->>>>>>> parent of 25c85b3 (Added Create Steam n Rails and more Client side mods)
 metafile = true
 
 [[files]]
