@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "d80f7faeacd03379a0991944c31b2fc5a98fcca8bd5ac693ebf74758e52c7714"
+hash = "daf68a6c35f4638cefe216bc2e454bf98e6e14adb26cfca6334f0cadb843830d"
 metafile = true
 
 [[files]]
@@ -824,7 +824,7 @@ metafile = true
 
 [[files]]
 file = "mods/trinkets.pw.toml"
-hash = "49f5590e6160266691eaca6948b33a3a2763e590ed4bcf90189f13650066c84e"
+hash = "30ab9b9b90f614905d5e19c4275a70fb0098f142e7afa9b6263de3967f6b8ea5"
 metafile = true
 
 [[files]]
